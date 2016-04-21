@@ -1,0 +1,126 @@
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe.config
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerController.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerController.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\LECTURES\#8\WCFHelloWorld\EFLATS\Miroslav\Ver0.2\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe.config
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerController.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerController.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver0.2\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.pdb
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe.config
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.pdb
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\bin\Debug\ServerController.dll
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.dll
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.dll
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.dll
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\bin\Debug\ServerController.pdb
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.pdb
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.pdb
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.pdb
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.exe
+C:\Users\Ieva\Desktop\codes\sdfghjkd\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe.config
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\bin\Debug\ServerController.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\bin\Debug\ServerController.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.0\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe.config
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\bin\Debug\ServerController.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\bin\Debug\ServerController.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSsnapshot_dbv3\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe.config
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerController.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerController.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\CONCURRENCY_VERSIONS\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.pdb
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe.config
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.pdb
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerController.dll
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.dll
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.dll
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.dll
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerController.pdb
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.pdb
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.pdb
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.pdb
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.exe
+C:\Users\Ieva\Desktop\Codessss\verTRANSACTIONSServer_dbv2\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe.config
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerController.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerController.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.pdb
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe.config
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.exe
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerHost.pdb
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerController.dll
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.dll
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.dll
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.dll
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerController.pdb
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\WcfEFlatsService.pdb
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerDatabase.pdb
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\bin\Debug\ServerModel.pdb
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.exe
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ServerHost\obj\Debug\ServerHost.pdb

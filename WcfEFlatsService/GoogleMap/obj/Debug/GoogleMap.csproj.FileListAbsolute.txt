@@ -1,0 +1,20 @@
+C:\Users\Ieva\Desktop\codes\verrrrsija truputuka naujesne\ver1.0\WcfEFlatsService\GoogleMap\bin\GoogleMap.dll.config
+C:\Users\Ieva\Desktop\codes\verrrrsija truputuka naujesne\ver1.0\WcfEFlatsService\GoogleMap\bin\GoogleMap.dll
+C:\Users\Ieva\Desktop\codes\verrrrsija truputuka naujesne\ver1.0\WcfEFlatsService\GoogleMap\bin\GoogleMap.pdb
+C:\Users\Ieva\Desktop\codes\verrrrsija truputuka naujesne\ver1.0\WcfEFlatsService\GoogleMap\bin\Newtonsoft.Json.dll
+C:\Users\Ieva\Desktop\codes\verrrrsija truputuka naujesne\ver1.0\WcfEFlatsService\GoogleMap\obj\Debug\GoogleMap.csprojResolveAssemblyReference.cache
+C:\Users\Ieva\Desktop\codes\verrrrsija truputuka naujesne\ver1.0\WcfEFlatsService\GoogleMap\obj\Debug\GoogleMap.dll
+C:\Users\Ieva\Desktop\codes\verrrrsija truputuka naujesne\ver1.0\WcfEFlatsService\GoogleMap\obj\Debug\GoogleMap.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ievas\WcfEFlatsService\GoogleMap\bin\GoogleMap.dll.config
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ievas\WcfEFlatsService\GoogleMap\bin\GoogleMap.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ievas\WcfEFlatsService\GoogleMap\bin\GoogleMap.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ievas\WcfEFlatsService\GoogleMap\obj\Debug\GoogleMap.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ievas\WcfEFlatsService\GoogleMap\obj\Debug\GoogleMap.dll
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ievas\WcfEFlatsService\GoogleMap\obj\Debug\GoogleMap.pdb
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\GoogleMap\bin\GoogleMap.dll.config
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\GoogleMap\bin\GoogleMap.dll
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\GoogleMap\bin\GoogleMap.pdb
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\GoogleMap\bin\Newtonsoft.Json.dll
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\GoogleMap\obj\Debug\GoogleMap.csprojResolveAssemblyReference.cache
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\GoogleMap\obj\Debug\GoogleMap.dll
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\GoogleMap\obj\Debug\GoogleMap.pdb

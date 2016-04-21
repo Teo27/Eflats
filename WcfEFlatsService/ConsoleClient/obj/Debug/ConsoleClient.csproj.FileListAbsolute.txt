@@ -1,0 +1,12 @@
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\ConsoleClient\obj\Debug\ConsoleClient.pdb

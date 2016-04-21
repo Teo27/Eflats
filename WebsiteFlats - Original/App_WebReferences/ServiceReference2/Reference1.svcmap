@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="00d5f131-2960-4f78-8eec-be9ae96ce6f2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:21792/Service/GoogleMapsGeolocation.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GoogleMapsGeolocation.wsdl" MetadataType="Wsdl" ID="c877ffd7-ca15-4584-adb8-f0282e6f4dce" SourceId="1" SourceUrl="http://localhost:21792/Service/GoogleMapsGeolocation.svc?wsdl" />
+    <MetadataFile FileName="GoogleMapsGeolocation.xsd" MetadataType="Schema" ID="ce67256b-778a-48c5-8659-9abfd5624041" SourceId="1" SourceUrl="http://localhost:21792/Service/GoogleMapsGeolocation.svc?xsd=xsd0" />
+    <MetadataFile FileName="GoogleMapsGeolocation1.xsd" MetadataType="Schema" ID="6a943b61-a5cb-4a6c-b7ed-aa1862aec1df" SourceId="1" SourceUrl="http://localhost:21792/Service/GoogleMapsGeolocation.svc?xsd=xsd1" />
+    <MetadataFile FileName="GoogleMapsGeolocation.disco" MetadataType="Disco" ID="9ca3b479-d6f9-45a0-97a8-20707c9e74e8" SourceId="1" SourceUrl="http://localhost:21792/Service/GoogleMapsGeolocation.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

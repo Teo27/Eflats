@@ -1,0 +1,64 @@
+﻿.navbar{
+    background-color: #9f4e3e;
+    color:#ffffde;
+}
+
+body{
+    background-color: #ffffde;
+    color:#9f4e3e;
+}
+
+b{
+    color:#9f4e3e;
+}
+.caret{
+    color:#9f4e3e;
+}
+.button1{
+    background-color:#9f4e3e;
+    color:#ffffde;
+}
+.button2{
+    background-color:#ffffde;
+    color:#9f4e3e;
+}
+.cream{
+    color:#ffffde;
+}
+datalist{
+    color:#fafad9
+}
+.inactive{
+    color:#ffffde;
+    background-color:#b96c5d;
+}
+.brown{
+    color:#9f4e3e;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus{
+    color: #555;
+    background-color: #9f4e3e;
+}
+
+
+
+
+.navbar .nav .active > a {
+        color: #000;
+        background-color: #ffffde;
+}
+
+.navbar .nav .active > a:hover {
+        color: #000;
+        background-color: #ffffde;
+}
+.navbar .nav .active > a:visited {
+        color: #000;
+        background-color: #ffffde;
+}
+
+
+ .HeaderStyle th{
+            text-align:center;
+
+        }

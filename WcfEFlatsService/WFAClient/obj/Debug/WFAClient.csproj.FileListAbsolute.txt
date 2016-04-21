@@ -1,0 +1,26 @@
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\bin\Debug\WFAClient.exe.config
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\bin\Debug\WFAClient.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\bin\Debug\WFAClient.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.LoginForm.resources
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.Properties.Resources.resources
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.csproj.GenerateResource.Cache
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.exe
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.pdb
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.MainForm.resources
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.UsersForm.resources
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.FlatsForm.resources
+C:\Users\MPJ\Documents\Visual Studio 2015\Projects\PROJECT\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.ApplicationsForm.resources
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\bin\Debug\WFAClient.exe.config
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\bin\Debug\WFAClient.exe
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\bin\Debug\WFAClient.pdb
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.csprojResolveAssemblyReference.cache
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.ApplicationsForm.resources
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.FlatsForm.resources
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.LoginForm.resources
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.MainForm.resources
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.Properties.Resources.resources
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.UsersForm.resources
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.csproj.GenerateResource.Cache
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.exe
+C:\Users\Klepot\Desktop\ver1.1\WcfEFlatsService\WFAClient\obj\Debug\WFAClient.pdb
